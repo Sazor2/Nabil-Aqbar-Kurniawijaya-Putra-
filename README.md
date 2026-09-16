@@ -71,12 +71,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazor2&show_icons=true&theme=onedark&hide_border=true" alt="sazor2's github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazor2&layout=compact&theme=onedark&hide_border=true" alt="sazor2's top languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sazor2&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="sazor2's github stats" width="100%" />
 </p>
-
+<br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazor2&theme=onedark&hide_border=true" alt="sazor2's streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazor2&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="sazor2's top languages" width="100%" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazor2&theme=onedark&hide_border=true" alt="sazor2's streak" width="100%" />
 </p>
 
 ---
@@ -85,7 +88,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sazor2&theme=onedark&column=6" alt="sazor2 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sazor2&theme=onedark&column=6&margin-w=10" alt="sazor2 trophies" />
   </a>
 </p>
 
@@ -94,10 +97,10 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://linkedin.com/in/username_anda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:emailkamu@example.com" target="_blank">
+  <a href="mailto:email_anda@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
